@@ -47,6 +47,11 @@ Ever wondered why your iPhone’s battery suddenly decides to nap halfway throug
 - [iOS 功耗分析指南 by PunMy](https://punmy.cn/2018/06/12/iOS%20%E6%9C%80%E5%85%A8%E9%9D%A2%E7%9A%84%E5%8A%9F%E8%80%97%E5%88%86%E6%9E%90%E4%B9%8B%E2%80%94%E2%80%94Power%20Log.html)
 - [ThinkDFIR’s Powerlog Analysis Guide](https://thinkdfir.com/2018/09/15/playing-with-the-ios-powerlog/)
 
+
+### Contributer
+
+ - [Woody](https://github.com/woodycatliu)
+
 ---
 
 **Happy Exploring! May your logs always be insightful and your battery never die at 3 PM.**
