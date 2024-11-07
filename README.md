@@ -3,6 +3,7 @@
 ### URL to access the app:
 Check it out here: [iOS Power Log Explorer](https://ios-power-log-explorer.streamlit.app/)
 
+![](https://github.com/chun-yu-ko/ios_power_log_explorer/blob/main/demo.png?raw=true)
 ---
 
 ## 🚀 How to Use This App (Yes, It’s That Easy!)
