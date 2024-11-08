@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 
 # Display the title in the Streamlit web app
-st.title("iOS Devlice Log Explorer")
+st.title("iOS Device Log Explorer")
 
 # Allow user to upload a .plsql file, restricting to the 'plsql' file type
 uploaded_file = st.file_uploader("Please Upload .plsql file", type = "plsql")
